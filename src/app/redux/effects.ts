@@ -1,7 +1,3 @@
-/**
- * Created: 2017-08-30
- * @author Christian Seifert <christian.seifert@robotron.de>
- */
 import { Injectable } from '@angular/core'
 import { Actions, Effect } from '@ngrx/effects'
 import { Action } from '@ngrx/store'

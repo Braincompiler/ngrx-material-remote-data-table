@@ -1,8 +1,3 @@
-/**
- * Created: 2017-08-30
- * @author Christian Seifert <christian.seifert@robotron.de>
- */
-
 import { CollectionViewer, DataSource } from '@angular/cdk/collections'
 
 import { Observable } from 'rxjs/Observable'

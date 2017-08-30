@@ -1,7 +1,3 @@
-/**
- * Created: 2017-08-30
- * @author Christian Seifert <christian.seifert@robotron.de>
- */
 import { Action } from '@ngrx/store'
 
 import { IJPPhoto } from 'models/jpphoto'
